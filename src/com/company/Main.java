@@ -6,5 +6,8 @@ public class Main {
         System.out.println("1 master - Marek");
         System.out.println("Marek");
         System.out.println("Tomek");
+
+        Marek marek = new Marek();
+        marek.imie();
     }
 }
