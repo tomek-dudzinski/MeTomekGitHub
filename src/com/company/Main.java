@@ -9,5 +9,8 @@ public class Main {
 
         Marek marek = new Marek();
         marek.imie();
+
+        Tomek tomek = new Tomek();
+        tomek.imie();
     }
 }
